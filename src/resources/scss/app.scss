@@ -1,0 +1,28 @@
+@import 'variables';
+h1 {
+    color: $red-color;
+}
+h2 {
+    color: yellow;
+    font-size: 25px;
+}
+.card-course-item{
+    margin-top: 20px;
+}
+.user-avt{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    
+}
+.checkbox-select-all-options {
+    width: 140px;
+    margin: 5px 16px;
+}
+.container-form .create-course{
+    right: 20px;
+}
+.icon-login i{
+    margin-right: 5px;
+}
+
